@@ -1,0 +1,12 @@
+{
+  "name": "electron-multi-window-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.4"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
